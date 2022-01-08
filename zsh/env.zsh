@@ -22,6 +22,9 @@ export EDITOR=nvim
 export ZSH_AUTOSUGGEST_USE_ASYNC=1
 export ZSH_AUTOSUGGEST_MANUAL_REBIND=1
 export TERM=screen-256color-bce
-export LC_ALL=C
+#export LC_ALL=C
+export LC_ALL=en_US.UTF-8  
+export LANG=en_US.UTF-8
+
 # vim
 #export MYVIMRC = XDG_CONFIG_HOME/nvim/init.vim
