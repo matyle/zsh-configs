@@ -38,3 +38,7 @@ alias ta='tmux a'
 alias t='tmux'
 alias lo='lsof -p $(fps) +w'
 alias py="python"
+
+
+# za
+alias za='zathura'
