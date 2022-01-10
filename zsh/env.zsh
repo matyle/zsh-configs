@@ -28,3 +28,6 @@ export LANG=en_US.UTF-8
 
 # vim
 #export MYVIMRC = XDG_CONFIG_HOME/nvim/init.vim
+
+# dbus
+export DBUS_SESSION_BUS_ADDRESS="unix:path=$DBUS_LAUNCHD_SESSION_BUS_SOCKET"
