@@ -17,6 +17,7 @@ export FLUTTER_ROOT=$LOCALPROG/flutter
 export TERM=xterm-256color
 export TERM_ITALICS=true
 export RANGER_LOAD_DEFAULT_RC="false"
+export RANGER_DEVICONS_SEPARATOR=" "
 #export TERM=screen-256color
 export EDITOR=nvim
 export ZSH_AUTOSUGGEST_USE_ASYNC=1
