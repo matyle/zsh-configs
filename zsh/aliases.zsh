@@ -15,7 +15,7 @@ alias ms='mailsync'
 alias mt='neomutt'
 alias r='echo $RANGER_LEVEL'
 alias pu='python3 -m pudb'
-alias ra='ranger'
+alias ra='. ranger'
 # ra() {
 	#if [ -z "$RANGER_LEVEL" ]
 	#then
