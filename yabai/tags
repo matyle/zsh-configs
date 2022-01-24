@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+check_app_state	scripts/show_song.sh	/^check_app_state()$/;"	f
+check_apps	scripts/show_bat.sh	/^check_apps()$/;"	f
+check_apps	scripts/show_cpu.sh	/^check_apps()$/;"	f
+check_apps	scripts/show_disk.sh	/^check_apps()$/;"	f
+check_apps	scripts/show_mem.sh	/^check_apps()$/;"	f
+check_apps	scripts/show_song.sh	/^check_apps()$/;"	f
+get_args	scripts/show_bat.sh	/^get_args()$/;"	f
+get_args	scripts/show_cpu.sh	/^get_args()$/;"	f
+get_args	scripts/show_disk.sh	/^get_args()$/;"	f
+get_args	scripts/show_mem.sh	/^get_args()$/;"	f
+get_args	scripts/show_song.sh	/^get_args()$/;"	f
+get_bat_info	scripts/show_bat.sh	/^get_bat_info()$/;"	f
+get_cpu	scripts/show_cpu.sh	/^get_cpu()$/;"	f
+get_cpu_usage	scripts/show_cpu.sh	/^get_cpu_usage()$/;"	f
+get_disk_info	scripts/show_disk.sh	/^get_disk_info()$/;"	f
+get_fan_temp	scripts/show_cpu.sh	/^get_fan_temp()$/;"	f
+get_load	scripts/show_cpu.sh	/^get_load()$/;"	f
+get_mem_info	scripts/show_mem.sh	/^get_mem_info()$/;"	f
+get_root	scripts/show_disk.sh	/^get_root()$/;"	f
+get_search	scripts/show_disk.sh	/^get_search()$/;"	f
+get_song_info	scripts/show_song.sh	/^get_song_info()$/;"	f
+get_uptime	scripts/show_cpu.sh	/^get_uptime()$/;"	f
+main	scripts/show_bat.sh	/^main()$/;"	f
+main	scripts/show_cpu.sh	/^main()$/;"	f
+main	scripts/show_disk.sh	/^main()$/;"	f
+main	scripts/show_mem.sh	/^main()$/;"	f
+main	scripts/show_song.sh	/^main()$/;"	f
+notify	scripts/show_bat.sh	/^notify()$/;"	f
+notify	scripts/show_cpu.sh	/^notify()$/;"	f
+notify	scripts/show_disk.sh	/^notify()$/;"	f
+notify	scripts/show_mem.sh	/^notify()$/;"	f
+notify	scripts/show_song.sh	/^notify()$/;"	f
+print_usage	scripts/show_bat.sh	/^print_usage()$/;"	f
+print_usage	scripts/show_cpu.sh	/^print_usage()$/;"	f
+print_usage	scripts/show_disk.sh	/^print_usage()$/;"	f
+print_usage	scripts/show_mem.sh	/^print_usage()$/;"	f
+print_usage	scripts/show_song.sh	/^print_usage()$/;"	f
+strloop	scripts/show_disk.sh	/^        function strloop(a)$/;"	f
+trim	scripts/show_bat.sh	/^trim()$/;"	f
+trim	scripts/show_cpu.sh	/^trim()$/;"	f
+trim	scripts/show_disk.sh	/^trim()$/;"	f

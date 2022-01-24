@@ -3,7 +3,6 @@
 /*/
 
 # ... but these:
-!/i3/
 !/polybar/
 !/ranger/
 ranger/plugins/__pycache__/*
@@ -45,6 +44,10 @@ ranger/plugins/devicons_linemode.pyo
 !/pudb/pudb.cfg
 !/bin
 !/lmk
+
+!/karabiner/
+!/yabai/
+!space*
 
 jesseduffield/lazynpm/state.yml
 
