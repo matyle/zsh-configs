@@ -25,7 +25,6 @@ ranger/folders.conf
 !/vimium-options.json
 !/zsh
 #!/nvim
-!/i3status/
 !/mutt/
 /mutt/accounts/*
 !/my-packages.txt
@@ -44,6 +43,8 @@ ranger/plugins/devicons_linemode.pyo
 !/pudb/pudb.cfg
 !/bin
 !/lmk
+!/spacebar/
+
 
 !/karabiner/
 !/yabai/
