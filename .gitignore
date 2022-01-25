@@ -25,7 +25,6 @@ ranger/folders.conf
 !/vimium-options.json
 !/zsh
 #!/nvim
-!/i3status/
 !/mutt/
 /mutt/accounts/*
 !/my-packages.txt
