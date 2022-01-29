@@ -14,5 +14,5 @@ function openlazynpm {
     zle_eval lazynpm
 }
 
-zle -N openlazynpm; bindkey "^N" openlazynpm
+# zle -N openlazynpm; bindkey "^N" openlazynpm
 
