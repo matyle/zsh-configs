@@ -37,3 +37,13 @@ export PATH="/usr/local/opt/qt@5/bin:$PATH"
   export LDFLAGS="-L/usr/local/opt/qt@5/lib"
   export CPPFLAGS="-I/usr/local/opt/qt@5/include"
 	export PKG_CONFIG_PATH="/usr/local/opt/qt@5/lib/pkgconfig"
+	# Start configuration added by Zim install {{{
+#
+# User configuration sourced by all invocations of the shell
+#
+
+# Define Zim location
+: ${ZIM_HOME=${ZDOTDIR:-${HOME}}/.zim}
+# }}} End configuration added by Zim install
+#export PATH=$HOME/.local/bin:$PATH
+
