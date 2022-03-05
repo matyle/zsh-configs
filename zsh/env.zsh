@@ -9,6 +9,7 @@ export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:$HOME/.gem/ruby/2.6.0
 export PATH=$PATH:/snap/bin
 export PATH=$PATH:/usr/local/opt/node@12/bin
+export PATH=$PATH:/usr/local/anaconda3/bin
 #export TERM=xterm-256color
 export PATH=$PATH:$LOCALPROG/flutter/bin
 export PATH=$PATH:$LOCALPROG/flutter/bin/cache/dart-sdk/bin
