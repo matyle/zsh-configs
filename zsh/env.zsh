@@ -1,4 +1,6 @@
+# export NODE_OPTIONS=--openssl-legacy-provider
 export PATH=$HOME/.local/bin:$PATH
+export PATH=/usr/local/tomcat8/bin:$PATH
 export XDG_CONFIG_HOME=$HOME/.config
 export LOCALBIN=$XDG_CONFIG_HOME/bin
 export PATH=$PATH:$LOCALBIN
@@ -9,6 +11,9 @@ export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:$HOME/.gem/ruby/2.6.0
 export PATH=$PATH:/snap/bin
 export PATH=$PATH:/usr/local/opt/node@12/bin
+export PATH="/usr/local/opt/node@16/bin:$PATH"
+export LDFLAGS="-L/usr/local/opt/node@16/lib"
+export CPPFLAGS="-I/usr/local/opt/node@16/include"
 export PATH=$PATH:/usr/local/anaconda3/bin
 #export TERM=xterm-256color
 export PATH=$PATH:$LOCALPROG/flutter/bin
@@ -48,4 +53,13 @@ export PATH="/usr/local/opt/qt@5/bin:$PATH"
 # }}} End configuration added by Zim install
 #export PATH=$HOME/.local/bin:$PATH
 
+<<<<<<< HEAD
 export PATH="/usr/local/opt/go@1.16/bin:$PATH"
+=======
+export PATH="/usr/local/opt/opencv@2/bin:$PATH"
+
+export LDFLAGS="-L/usr/local/opt/opencv@2/lib"
+export CPPFLAGS="-I/usr/local/opt/opencv@2/include"
+export PKG_CONFIG_PATH="/usr/local/opt/opencv@2/lib/pkgconfig"
+export TEXINPUTS=./texmf//:
+>>>>>>> 2df4ca2ba94febc283b396055fbdaae2b313347a
