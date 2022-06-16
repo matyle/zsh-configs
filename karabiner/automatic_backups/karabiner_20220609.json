@@ -709,6 +709,16 @@
                     "simple_modifications": [
                         {
                             "from": {
+                                "key_code": "application"
+                            },
+                            "to": [
+                                {
+                                    "key_code": "right_option"
+                                }
+                            ]
+                        },
+                        {
+                            "from": {
                                 "key_code": "left_command"
                             },
                             "to": [
@@ -736,16 +746,6 @@
                                     "key_code": "right_command"
                                 }
                             ]
-                        },
-                        {
-                            "from": {
-                                "key_code": "right_command"
-                            },
-                            "to": [
-                                {
-                                    "key_code": "right_option"
-                                }
-                            ]
                         }
                     ]
                 },
@@ -757,19 +757,6 @@
                         "is_pointing_device": false,
                         "product_id": 65535,
                         "vendor_id": 1452
-                    },
-                    "ignore": false,
-                    "manipulate_caps_lock_led": true,
-                    "simple_modifications": []
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "identifiers": {
-                        "is_keyboard": true,
-                        "is_pointing_device": false,
-                        "product_id": 49284,
-                        "vendor_id": 1133
                     },
                     "ignore": false,
                     "manipulate_caps_lock_led": true,

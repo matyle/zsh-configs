@@ -48,3 +48,4 @@ export PATH="/usr/local/opt/qt@5/bin:$PATH"
 # }}} End configuration added by Zim install
 #export PATH=$HOME/.local/bin:$PATH
 
+export PATH="/usr/local/opt/go@1.16/bin:$PATH"
