@@ -40,6 +40,8 @@ alias ta='tmux a'
 alias t='tmux'
 alias lo='lsof -p $(fps) +w'
 alias py="python"
+alias csc="cd ~/go/src/cryptobroker"
+alias cst="cd ~/go/src/test"
 
 
 # za
